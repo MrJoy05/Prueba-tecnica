@@ -13,11 +13,10 @@ La aplicación está compuesta por dos partes principales:
 
 ### Frontend
 
-El frontend está desarrollado con Astro. Asegúrate de tener Node.js y npm instalados para gestionar las dependencias.
-
+El frontend está desarrollado con Astro.
 **Dependencias del Frontend:**
 - [Astro](https://astro.build/)
-- [Tailwind CSS](https://tailwindcss.com/) (si se utiliza para el diseño)
+- [Tailwind CSS](https://tailwindcss.com/) (se utiliza para el diseño)
 
 **Dependencias del backend**
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/): Un microframework para aplicaciones web en Python.
