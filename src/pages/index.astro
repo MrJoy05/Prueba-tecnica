@@ -1,0 +1,14 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+import TodoList from '../components/TodoList';
+---
+
+<html>
+  <head>
+    <title>Prueba Tecnica</title>
+  </head>
+  <body class="bg-gray-800">
+    <TodoList client:load/>
+  </body>
+</html>
